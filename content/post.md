@@ -96,7 +96,7 @@ Result: [OpenAI's GPT-4](https://openai.com)
 Adding images is similar to adding links. Use an exclamation mark (`!`) followed by the alt text in square brackets and the image path in parentheses.
 
 ```markdown
-![My Cool Image](/images/sample-image.jpg)
+![My Cool Image](/images/sample-image.png)
 ```
 
 Here's an example image:
