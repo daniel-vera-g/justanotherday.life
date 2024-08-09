@@ -1,4 +1,4 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "justanotherday.life"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
@@ -21,8 +21,8 @@ title = "Paper"
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
-avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
+avatar = 'https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Travel-Logo-Graphics-1-36-580x386.jpg'
+  name = 'Just another day. Life'
   bio = 'Discover fresh context'
 # ------------------------------
 
